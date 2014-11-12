@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.8)  12 NOV 2014 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.8)  12 NOV 2014 10:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -319,49 +319,45 @@ Missing character: There is no ± in font cmr12!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35])
-(./chapters/01_08.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-[37] [38
-
-]
+(./chapters/01_08.tex [36]
 Chapter 8.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39]
+ [37
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
+ [38]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ± in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41])
-(./chapters/01_09.tex [42]
+ [39])
+(./chapters/01_09.tex [40]
 Chapter 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43
+ [41
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
+ [42]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45]
+ [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46])
-(./chapters/01_10.tex [47] [48
+ [44])
+(./chapters/01_10.tex [45] [46
 
 ]
 Chapter 10.
@@ -373,7 +369,7 @@ Missing character: There is no ± in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49]
+ [47]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -385,16 +381,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no Â in font cmsl12!
 Missing character: There is no € in font cmsl12!
 Missing character: There is no ™ in font cmsl12!
- [50])
-(./chapters/01_11.tex [51]
+ [48])
+(./chapters/01_11.tex [49]
 Missing character: There is no Â in font cmsl12!
 Missing character: There is no € in font cmsl12!
 Missing character: There is no ™ in font cmsl12!
- [52
+ [50
 
 ]
 Chapter 11.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [53]
@@ -403,43 +405,49 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [57])
-(./chapters/01_12.tex [58]
+ [55])
+(./chapters/01_12.tex [56]
 Chapter 12.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59
+ [57
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60]
+ [58]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61])
-(./chapters/01_13.tex [62]
+ [59])
+(./chapters/01_13.tex [60]
 Chapter 13.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63
+ [61
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64])
-(./chapters/01_14.tex [65] [66
+ [62])
+(./chapters/01_14.tex [63] [64
 
 ]
 Chapter 14.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (100.94304pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 66 \OT1/cmr/m/sl/12 CHAPTER 14.  ON THE BIRTH OF []S[]UKA DEVA 
+AND ON THE DUTIES OF HOUSEHOLDERS
+ []
+
+[66]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67]
@@ -451,29 +459,29 @@ Overfull \hbox (100.94304pt too wide) has occurred while \output is active
 AND ON THE DUTIES OF HOUSEHOLDERS
  []
 
-[68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[68]) (./chapters/01_15.tex [69]
 Overfull \hbox (100.94304pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 70 \OT1/cmr/m/sl/12 CHAPTER 14.  ON THE BIRTH OF []S[]UKA DEVA 
 AND ON THE DUTIES OF HOUSEHOLDERS
  []
 
-[70]) (./chapters/01_15.tex [71]
-Overfull \hbox (100.94304pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 72 \OT1/cmr/m/sl/12 CHAPTER 14.  ON THE BIRTH OF []S[]UKA DEVA 
-AND ON THE DUTIES OF HOUSEHOLDERS
- []
-
-[72
+[70
 
 ]
 Chapter 15.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (148.65501pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 72 \OT1/cmr/m/sl/12 CHAPTER 15.  ON THE DISPASSION OF []S[]UKA 
+AND THE INSTRUCTIONS OF BHAGAVAT[]I TO HARI
+ []
+
+[72]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [73]
@@ -485,25 +493,13 @@ Overfull \hbox (148.65501pt too wide) has occurred while \output is active
 AND THE INSTRUCTIONS OF BHAGAVAT[]I TO HARI
  []
 
-[74]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [75]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[74]) (./chapters/01_16.tex [75]
 Overfull \hbox (148.65501pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 76 \OT1/cmr/m/sl/12 CHAPTER 15.  ON THE DISPASSION OF []S[]UKA 
 AND THE INSTRUCTIONS OF BHAGAVAT[]I TO HARI
  []
 
-[76]) (./chapters/01_16.tex [77]
-Overfull \hbox (148.65501pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 78 \OT1/cmr/m/sl/12 CHAPTER 15.  ON THE DISPASSION OF []S[]UKA 
-AND THE INSTRUCTIONS OF BHAGAVAT[]I TO HARI
- []
-
-[78
+[76
 
 ]
 Chapter 16.
@@ -513,9 +509,26 @@ Missing character: There is no ™ in font cmr17!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79]
+ [77]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+Missing character: There is no Â in font cmsl12!
+Missing character: There is no € in font cmsl12!
+Missing character: There is no ™ in font cmsl12!
+
+Overfull \hbox (14.47426pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 78 \OT1/cmr/m/sl/12 CHAPTER 16.  ON []S[]UKAS DESIRING TO GO TO
+ MITHIL[]A TO SEE JANAKA
+ []
+
+[78]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ± in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79])
+(./chapters/01_17.tex
 Missing character: There is no Â in font cmsl12!
 Missing character: There is no € in font cmsl12!
 Missing character: There is no ™ in font cmsl12!
@@ -526,37 +539,6 @@ Overfull \hbox (14.47426pt too wide) has occurred while \output is active
  []
 
 [80]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ± in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [81])
-(./chapters/01_17.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Missing character: There is no Â in font cmsl12!
-Missing character: There is no € in font cmsl12!
-Missing character: There is no ™ in font cmsl12!
-
-Overfull \hbox (14.47426pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 82 \OT1/cmr/m/sl/12 CHAPTER 16.  ON []S[]UKAS DESIRING TO GO TO
- MITHIL[]A TO SEE JANAKA
- []
-
-[82] [83]
-Missing character: There is no Â in font cmsl12!
-Missing character: There is no € in font cmsl12!
-Missing character: There is no ™ in font cmsl12!
-
-Overfull \hbox (14.47426pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 84 \OT1/cmr/m/sl/12 CHAPTER 16.  ON []S[]UKAS DESIRING TO GO TO
- MITHIL[]A TO SEE JANAKA
- []
-
-[84
-
-]
 Chapter 17.
 Missing character: There is no Â in font cmr17!
 Missing character: There is no € in font cmr17!
@@ -566,13 +548,44 @@ Missing character: There is no ± in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
+ [81
+
+]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+Missing character: There is no Â in font cmsl12!
+Missing character: There is no € in font cmsl12!
+Missing character: There is no ™ in font cmsl12!
+
+Overfull \hbox (234.79872pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 82 \OT1/cmr/m/sl/12 CHAPTER 17.  ON []S[]UKAS DISPLAYING HIS SE
+LF-CONTROL AMIDST THE WOMEN OF THE PALACE OF MITHIL[]A
+ []
+
+[82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no Â in font cmsl12!
+Missing character: There is no € in font cmsl12!
+Missing character: There is no ™ in font cmsl12!
+
+Overfull \hbox (234.79872pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 84 \OT1/cmr/m/sl/12 CHAPTER 17.  ON []S[]UKAS DISPLAYING HIS SE
+LF-CONTROL AMIDST THE WOMEN OF THE PALACE OF MITHIL[]A
+ []
+
+[84]) (./chapters/01_18.tex [85]
 Missing character: There is no Â in font cmsl12!
 Missing character: There is no € in font cmsl12!
 Missing character: There is no ™ in font cmsl12!
@@ -582,36 +595,7 @@ Overfull \hbox (234.79872pt too wide) has occurred while \output is active
 LF-CONTROL AMIDST THE WOMEN OF THE PALACE OF MITHIL[]A
  []
 
-[86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [87]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Missing character: There is no Â in font cmsl12!
-Missing character: There is no € in font cmsl12!
-Missing character: There is no ™ in font cmsl12!
-
-Overfull \hbox (234.79872pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 88 \OT1/cmr/m/sl/12 CHAPTER 17.  ON []S[]UKAS DISPLAYING HIS SE
-LF-CONTROL AMIDST THE WOMEN OF THE PALACE OF MITHIL[]A
- []
-
-[88]) (./chapters/01_18.tex [89]
-Missing character: There is no Â in font cmsl12!
-Missing character: There is no € in font cmsl12!
-Missing character: There is no ™ in font cmsl12!
-
-Overfull \hbox (234.79872pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 90 \OT1/cmr/m/sl/12 CHAPTER 17.  ON []S[]UKAS DISPLAYING HIS SE
-LF-CONTROL AMIDST THE WOMEN OF THE PALACE OF MITHIL[]A
- []
-
-[90
+[86
 
 ]
 Chapter 18.
@@ -621,7 +605,7 @@ Missing character: There is no ™ in font cmr17!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [91]
+ [87]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ± in font cmr12!
 Missing character: There is no Ã in font cmr12!
@@ -637,11 +621,46 @@ Missing character: There is no € in font cmsl12!
 Missing character: There is no ™ in font cmsl12!
 
 Overfull \hbox (53.94736pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 88 \OT1/cmr/m/sl/12 CHAPTER 18.  ON JANAKAS GIVING INSTRUCTIONS
+ ON TRUTH TO []S[]UKA DEVA
+ []
+
+[88]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ± in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no Â in font cmsl12!
+Missing character: There is no € in font cmsl12!
+Missing character: There is no ™ in font cmsl12!
+
+Overfull \hbox (53.94736pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 90 \OT1/cmr/m/sl/12 CHAPTER 18.  ON JANAKAS GIVING INSTRUCTIONS
+ ON TRUTH TO []S[]UKA DEVA
+ []
+
+[90]) (./chapters/01_19.tex [91]
+Missing character: There is no Â in font cmsl12!
+Missing character: There is no € in font cmsl12!
+Missing character: There is no ™ in font cmsl12!
+
+Overfull \hbox (53.94736pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 92 \OT1/cmr/m/sl/12 CHAPTER 18.  ON JANAKAS GIVING INSTRUCTIONS
  ON TRUTH TO []S[]UKA DEVA
  []
 
-[92]
+[92
+
+]
+Chapter 19.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -654,67 +673,31 @@ Missing character: There is no ± in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Missing character: There is no Â in font cmsl12!
-Missing character: There is no € in font cmsl12!
-Missing character: There is no ™ in font cmsl12!
-
-Overfull \hbox (53.94736pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 94 \OT1/cmr/m/sl/12 CHAPTER 18.  ON JANAKAS GIVING INSTRUCTIONS
- ON TRUTH TO []S[]UKA DEVA
- []
-
-[94]) (./chapters/01_19.tex [95]
-Missing character: There is no Â in font cmsl12!
-Missing character: There is no € in font cmsl12!
-Missing character: There is no ™ in font cmsl12!
-
-Overfull \hbox (53.94736pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 96 \OT1/cmr/m/sl/12 CHAPTER 18.  ON JANAKAS GIVING INSTRUCTIONS
- ON TRUTH TO []S[]UKA DEVA
- []
-
-[96
-
-]
-Chapter 19.
-
+ [94]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [97]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-
+ [95]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ± in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [99]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [100])
-(./chapters/01_20.tex [101] [102
+ [96])
+(./chapters/01_20.tex [97] [98
 
 ]
 Chapter 20.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [103]
+ [99]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [104]
+ [100]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
+ [101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [106])
-[107] (./a4.aux)
+ [102])
+[103] (./a4.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -722,11 +705,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  936 strings out of 493117
  12337 string characters out of 6135433
- 81765 words of memory out of 5000000
+ 85765 words of memory out of 5000000
  4389 multiletter control sequences out of 15000+600000
  8554 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,8n,22p,3080b,147s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,8n,22p,6627b,147s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
@@ -734,10 +717,10 @@ sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
 cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on a4.pdf (107 pages, 320726 bytes).
+Output written on a4.pdf (103 pages, 319645 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
+ 365 PDF objects out of 1000 (max. 8388607)
+ 250 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
