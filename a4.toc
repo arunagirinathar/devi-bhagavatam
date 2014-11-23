@@ -1,0 +1,21 @@
+\contentsline {part}{I\hspace {1em}}{3}
+\contentsline {chapter}{\numberline {1}On the questions by \'Saunaka and others}{3}
+\contentsline {chapter}{\numberline {2}On questions put by \'Saunaka and other Rsis}{5}
+\contentsline {chapter}{\numberline {3}On praising the Pur\^anas and on each Vy\^asa of every Dv\^apara Yuga}{8}
+\contentsline {chapter}{\numberline {4}On the excellency of the Dev\^i}{10}
+\contentsline {chapter}{\numberline {5}On the narrative of Hayagr\^iva}{15}
+\contentsline {chapter}{\numberline {6}On the preparation for war by Madhu Kaitabha}{21}
+\contentsline {chapter}{\numberline {7}On the praise of the Dev\^i}{24}
+\contentsline {chapter}{\numberline {8}On deciding who is to be worshipped}{27}
+\contentsline {chapter}{\numberline {9}On the killing of Madhu Kaitabha}{31}
+\contentsline {chapter}{\numberline {10}On \'Siva’s granting boons}{35}
+\contentsline {chapter}{\numberline {11}On the birth of Budha}{37}
+\contentsline {chapter}{\numberline {12}On the birth of Pururav\^a}{42}
+\contentsline {chapter}{\numberline {13}On Urva\'S\^i and Pururav\^a}{46}
+\contentsline {chapter}{\numberline {14}On the birth of \'S\^uka Deva and on the duties of householders}{48}
+\contentsline {chapter}{\numberline {15}On the dispassion of \'S\^uka and the instructions of Bhagavat\^i to Hari}{52}
+\contentsline {chapter}{\numberline {16}On \'S\^uka’s desiring to go to Mithil\^a to see Janaka}{57}
+\contentsline {chapter}{\numberline {17}On \'S\^uka’s displaying his self-control amidst the women of the palace of Mithil\^a}{61}
+\contentsline {chapter}{\numberline {18}On Janaka’s giving instructions on truth to \'S\^uka Deva}{65}
+\contentsline {chapter}{\numberline {19}On the description of the marriage of \'S\^uka}{69}
+\contentsline {chapter}{\numberline {20}On Vy\^asa doing his duties}{73}
