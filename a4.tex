@@ -1,13 +1,38 @@
-\documentclass[12pt]{book}
-\usepackage[a4paper]{geometry}
-\usepackage[Bjarne]{fncychap}
+\documentclass[openany,12pt]{book}
+\usepackage[a4paper,centering,twoside,bindingoffset=0cm]{geometry}
+%\usepackage[Bjarne]{fncychap}
+\usepackage{titlesec}
+
+\titleclass{\part}{top}
+\titleclass{\chapter}{straight}
+
+\titleformat{\chapter}[display]
+  {\centering\normalfont\large}{\noindent\hfil\rule{0.5\textwidth}{.4pt}\hfil}{0pt}{\scshape\large\chaptertitlename\ \thechapter. }
+  
+\titleformat{\part}[display]
+            {\scshape\huge\filcenter\thispagestyle{empty}}
+            {Skandha \thepart%
+             % A working hack: set the mark here instead, expanding \thepart
+             % (note the lack of \protect)
+             %\markright{Part \thepart, page \protect\thepage} 
+            }
+            {20pt}
+            {\Huge}
+
+
 
 \setlength\parindent{0pt}
 \setlength\parskip{6pt}
+
+\usepackage{titleps}
+\newpagestyle{main}{\sethead[{\scshape\footnotesize\thepage}][{\scshape\footnotesize The Dev\^i Bh\^agavatam --- Skandha \thepart\ Chapter \thechapter}][] % even{}{{\scshape\footnotesize \chaptertitle}}{{\scshape\footnotesize\thepage}}
+\headrule
+} % odd
+\pagestyle{main}
 \title{The Dev\^i Bh\^agavatam}
 
 \begin{document}
-\part{{\scshape\large The Dev\^i Bh\^agavatam}\\Skandha I}
+\part{}
 \input{chapters/01_01.tex}
 \input{chapters/01_02.tex}
 \input{chapters/01_03.tex}
@@ -28,4 +53,7 @@
 \input{chapters/01_18.tex}
 \input{chapters/01_19.tex}
 \input{chapters/01_20.tex}
+
+\part{}
+
 \end{document}
