@@ -1,20 +1,21 @@
 \documentclass[openany,12pt]{book}
 \usepackage[a4paper,centering,twoside,bindingoffset=0cm]{geometry}
-%\usepackage[Bjarne]{fncychap}
+\usepackage{graphicx}
 \usepackage{titlesec}
-
+\usepackage{type1cm}
 \titleclass{\part}{top}
 \titleclass{\chapter}{straight}
 
 \titleformat{\chapter}[display]
-  {\centering\normalfont\large}{\noindent\hfil\rule{0.5\textwidth}{.4pt}\hfil}{0pt}{\scshape\large\chaptertitlename\ \thechapter. }
+  {\centering\normalfont\large}{}{0pt}{\scshape\large\chaptertitlename\ \thechapter. }
   
 \titleformat{\part}[display]
             {\scshape\huge\filcenter\thispagestyle{empty}}
-            {Skandha \thepart%
+            {Book \thepart\\%
              % A working hack: set the mark here instead, expanding \thepart
              % (note the lack of \protect)
              %\markright{Part \thepart, page \protect\thepage} 
+             {\noindent\hfil\rule{0.5\textwidth}{.4pt}\hfil}
             }
             {20pt}
             {\Huge}
@@ -25,13 +26,17 @@
 \setlength\parskip{6pt}
 
 \usepackage{titleps}
-\newpagestyle{main}{\sethead[{\scshape\footnotesize\thepage}][{\scshape\footnotesize The Dev\^i Bh\^agavatam --- Skandha \thepart\ Chapter \thechapter}][] % even{}{{\scshape\footnotesize \chaptertitle}}{{\scshape\footnotesize\thepage}}
+\newpagestyle{main}{\sethead[{\scshape\footnotesize\thepage}][{\scshape\footnotesize The Dev\^i Bh\^agavatam --- Book \thepart\ Chapter \thechapter}][] % even{}{{\scshape\footnotesize \chaptertitle}}{{\scshape\footnotesize\thepage}}
 \headrule
 } % odd
 \pagestyle{main}
-\title{The Dev\^i Bh\^agavatam}
-
 \begin{document}
+
+\input{coverpage.tex}
+
+\cleardoublepage
+\setcounter{page}{1}
+
 \part{}
 \input{chapters/01_01.tex}
 \input{chapters/01_02.tex}
@@ -55,5 +60,18 @@
 \input{chapters/01_20.tex}
 
 \part{}
+\input{chapters/02_01.tex}
+\input{chapters/02_02.tex}
+\input{chapters/02_03.tex}
+\input{chapters/02_04.tex}
+\input{chapters/02_05.tex}
+\input{chapters/02_06.tex}
+\input{chapters/02_07.tex}
+\input{chapters/02_08.tex}
+\input{chapters/02_09.tex}
+\input{chapters/02_10.tex}
+\input{chapters/02_11.tex}
+\input{chapters/02_12.tex}
+
 
 \end{document}
