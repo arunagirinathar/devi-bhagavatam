@@ -3,12 +3,20 @@
 \usepackage{graphicx}
 \usepackage{titlesec}
 \usepackage{type1cm}
+
+
+  \makeatletter
+   \@addtoreset{chapter}{part}
+   \makeatother  
+   
+   
 \titleclass{\part}{top}
 \titleclass{\chapter}{straight}
 
 \titleformat{\chapter}[display]
   {\centering\normalfont\large}{}{0pt}{\scshape\large\chaptertitlename\ \thechapter. }
   
+   
 \titleformat{\part}[display]
             {\scshape\huge\filcenter\thispagestyle{empty}}
             {Book \thepart\\%
@@ -26,10 +34,13 @@
 \setlength\parskip{6pt}
 
 \usepackage{titleps}
-\newpagestyle{main}{\sethead[{\scshape\footnotesize\thepage}][{\scshape\footnotesize The Dev\^i Bh\^agavatam --- Book \thepart\ Chapter \thechapter}][] % even{}{{\scshape\footnotesize \chaptertitle}}{{\scshape\footnotesize\thepage}}
+\newpagestyle{main}{
+\sethead[{\scshape\footnotesize\thepage}][{\scshape\footnotesize The Dev\^i Bh\^agavatam --- Book \thepart\ Chapter \thechapter}][] % even
+{}{{\scshape\footnotesize \chaptertitle}}{{\scshape\footnotesize\thepage}}
 \headrule
 } % odd
-\pagestyle{main}
+
+\pagestyle{main}
 \begin{document}
 
 \input{coverpage.tex}
@@ -58,7 +69,6 @@
 \input{chapters/01_18.tex}
 \input{chapters/01_19.tex}
 \input{chapters/01_20.tex}
-
 \part{}
 \input{chapters/02_01.tex}
 \input{chapters/02_02.tex}
